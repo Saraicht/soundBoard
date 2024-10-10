@@ -14,6 +14,7 @@
 		3CA6DAED2CB746C500A4BA16 /* saraiSoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3CA6DAEB2CB746C500A4BA16 /* saraiSoundBoard.xcdatamodeld */; };
 		3CA6DAEF2CB746CB00A4BA16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CA6DAEE2CB746CB00A4BA16 /* Assets.xcassets */; };
 		3CA6DAF22CB746CB00A4BA16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CA6DAF02CB746CB00A4BA16 /* LaunchScreen.storyboard */; };
+		3CA6DAFA2CB7505800A4BA16 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CA6DAF92CB7505800A4BA16 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3CA6DAEE2CB746CB00A4BA16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3CA6DAF12CB746CB00A4BA16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3CA6DAF32CB746CB00A4BA16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3CA6DAF92CB7505800A4BA16 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				3CA6DAE42CB746C500A4BA16 /* SceneDelegate.swift */,
 				3CA6DAE62CB746C500A4BA16 /* ViewController.swift */,
 				3CA6DAE82CB746C500A4BA16 /* Main.storyboard */,
+				3CA6DAF92CB7505800A4BA16 /* SoundViewController.swift */,
 				3CA6DAEE2CB746CB00A4BA16 /* Assets.xcassets */,
 				3CA6DAF02CB746CB00A4BA16 /* LaunchScreen.storyboard */,
 				3CA6DAF32CB746CB00A4BA16 /* Info.plist */,
@@ -145,6 +148,7 @@
 				3CA6DAED2CB746C500A4BA16 /* saraiSoundBoard.xcdatamodeld in Sources */,
 				3CA6DAE32CB746C500A4BA16 /* AppDelegate.swift in Sources */,
 				3CA6DAE52CB746C500A4BA16 /* SceneDelegate.swift in Sources */,
+				3CA6DAFA2CB7505800A4BA16 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
